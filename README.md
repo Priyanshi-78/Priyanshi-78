@@ -2,7 +2,7 @@
 - I’m interested in web development
 - I’m currently learning ...
 - I’m looking to collaborate on web development... 
-- How to reach me at:
+- You can reach me at:
  pandeypriyanshi2006@gmail.com
 
 
