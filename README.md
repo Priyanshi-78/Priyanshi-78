@@ -2,8 +2,8 @@
 - I’m interested in web development
 - I’m currently learning ...
 - I’m looking to collaborate on web development... 
-- How to reach me ...contact with me by mail
-- my mail ✉️ pandeypriyanshi2006@gmail.com
+- How to reach me at:
+ pandeypriyanshi2006@gmail.com
 
 
 <!---
