@@ -1,7 +1,7 @@
 
 <div align="center">
-
-<img src="./neon-workspace-typing.gif" width="100%" alt="Priyanshi's Neon Workspace Animation" />
+  
+<img src="./neon-data-dashboard-text-0-5sec-hold.gif" width="100%" alt="Priyanshi - Data Analyst" />
 
 ### Data Analyst | Turning Data Into Meaningful Insights
 
