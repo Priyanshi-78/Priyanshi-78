@@ -13,11 +13,11 @@
 
 ## ✦ CURRENT FOCUS
 
-- 📊 Transforming raw data into meaningful insights
-- 🐍 Strengthening Python and SQL for data analysis
-- 📈 Building interactive dashboards and visualizations
-- 🔍 Practicing real-world data analysis projects
-- 💡 Improving analytical and problem-solving skills
+-  Transforming raw data into meaningful insights
+-  Strengthening Python and SQL for data analysis
+-  Building interactive dashboards and visualizations
+-  Practicing real-world data analysis projects
+-  Improving analytical and problem-solving skills
 
 ---
 
@@ -83,4 +83,13 @@
 
 </p>
 
+
+<p align="center">
+  <a href="mailto:priyanshipandey21002@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-purple?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://priyanshi-78.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 ---
